@@ -4,7 +4,7 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-#Privacy Policy
+Privacy Policy
 ---
 
 We do collect information, but (with one exception details below) this is kept completely annomyous and never sold to third parties.
